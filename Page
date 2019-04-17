@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {
+background-color: black;
+}
+.green-text {
+color: green;
+}
+.paragraph-lyric-1 {
+color: #FFD700;
+margin: auto;
+width: 1000px;
+height: 5000px;
+background-color: white;
+}
+
+</style>
+
+<h1 class="green-text">Hello World! (II)<h1>
+<p class="green-text">This project is a work of practice, a work of curiosity and, one could say, intrigue.
+Why? Because I want to get together many different lyrics to many different good songs, and I want to get their translations too.
+This is going to be, I can hope, a good place for keep the proper tanslations of good songs.
+If I get good at this, I plan on including the actual songs themselves too, and any attached videos I can get.
+Maybe I'll post my own poetry from time to time, this is a personal work after all.</p>
+
+</html>
